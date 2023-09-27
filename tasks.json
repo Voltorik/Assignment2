@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Practice Typing",
+    "description": "Practice typing for 1 hour",
+    "status": "complete"
+  },
+  {
+    "title": "Exercise",
+    "description": "Go through my exercise routine today",
+    "status": "complete"
+  },
+  {
+    "title": "Cook lunch",
+    "description": "Make burgers for lunch",
+    "status": "not-complete"
+  },
+  {
+    "title": "MyTask",
+    "description": "a new task.",
+    "status": "complete"
+  }
+]
